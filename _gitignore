@@ -1,0 +1,5 @@
+.lock*
+.waf*
+*.pyc
+build
+ofsid
